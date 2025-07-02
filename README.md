@@ -17,4 +17,4 @@ One of the things I love about programming is that it allows me to transform my 
 
 ---
 
-[![Discord Members](https://img.shields.io/discord/317737508064591874?logo=Discord&label=Discord&style=flat-square&logoColor=white)]([https://discord.deeme.dev/](https://discord.gg/WNDJpmg7))
+[![Discord Members](https://img.shields.io/discord/317737508064591874?logo=Discord&label=Discord&style=flat-square&logoColor=white)](https://discord.gg/dQSTYrJb)
